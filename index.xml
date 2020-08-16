@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://fly-out.netlify.com/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Feb 2020 00:28:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://fly-out.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eureka An old Fashion Equation Solver</title>
+      <link>https://fly-out.netlify.com/eureka/</link>
+      <pubDate>Thu, 19 Mar 2020 16:22:49 +0900</pubDate>
+      
+      <guid>https://fly-out.netlify.com/eureka/</guid>
+      <description>Eureka An old Fashion Equation Solver During my studies (several years ago), I discovered the Equation solver TkSolver. Some days ago, I was trying to find a GNU equivalent to TkSolver as I wanted to perform some computations. My searches were unsuccessful (not exactly but I didn’t find a similar tool) but I found Eureka Solver which is an old solver (may be the first of this type).
+Eureka Solver (and TK solver) is build on the declarative programming approach while the « standard » solvers use a procedural approach.</description>
+    </item>
+    
+    <item>
+      <title>Japan Pilot Weather</title>
+      <link>https://fly-out.netlify.com/posts/japan-pilot-weather/</link>
+      <pubDate>Sat, 22 Feb 2020 16:22:49 +0900</pubDate>
+      
+      <guid>https://fly-out.netlify.com/posts/japan-pilot-weather/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Fly-out</title>
+      <link>https://fly-out.netlify.com/about/</link>
+      <pubDate>Fri, 21 Feb 2020 00:28:38 +0000</pubDate>
+      
+      <guid>https://fly-out.netlify.com/about/</guid>
+      <description>Fly-out speaks about general aviation, softwares and all that could be part of a technical conversation. The main motivation for writing this website was to share knowledges and tools for pilots.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://fly-out.netlify.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fly-out.netlify.com/search/</guid>
+      <description>Manticore Search </description>
+    </item>
+    
+  </channel>
+</rss>

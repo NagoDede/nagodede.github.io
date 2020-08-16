@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://fly-out.netlify.com/fr/</loc>
+    <lastmod>2020-03-19T16:22:49+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fly-out.netlify.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fly-out.netlify.com/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://fly-out.netlify.com/fr/categories/aeronautique/</loc>
+    <lastmod>2020-03-19T16:22:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fly-out.netlify.com/fr/categories/</loc>
+    <lastmod>2020-03-19T16:22:49+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fly-out.netlify.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fly-out.netlify.com/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://fly-out.netlify.com/fr/tags/engineering/</loc>
+    <lastmod>2020-03-19T16:22:49+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fly-out.netlify.com/tags/engineering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fly-out.netlify.com/fr/tags/engineering/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://fly-out.netlify.com/fr/categories/informatique/</loc>
+    <lastmod>2020-03-19T16:22:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fly-out.netlify.com/fr/posts/</loc>
+    <lastmod>2020-03-19T16:22:49+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fly-out.netlify.com/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fly-out.netlify.com/fr/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://fly-out.netlify.com/fr/categories/software/</loc>
+    <lastmod>2020-03-19T16:22:49+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fly-out.netlify.com/categories/software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fly-out.netlify.com/fr/categories/software/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://fly-out.netlify.com/fr/tags/</loc>
+    <lastmod>2020-03-19T16:22:49+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fly-out.netlify.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fly-out.netlify.com/fr/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://fly-out.netlify.com/fr/posts/b612/</loc>
+    <lastmod>2020-03-19T16:22:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fly-out.netlify.com/feuilles-vol-ifr/</loc>
+    <lastmod>2020-03-07T16:22:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fly-out.netlify.com/fr/categories/fly/</loc>
+    <lastmod>2020-03-07T16:22:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fly-out.netlify.com/fr/tags/fly/</loc>
+    <lastmod>2020-03-07T16:22:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fly-out.netlify.com/fr/tags/ifr/</loc>
+    <lastmod>2020-03-07T16:22:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fly-out.netlify.com/fr/posts/japan-pilot-weather/</loc>
+    <lastmod>2020-02-22T16:22:49+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fly-out.netlify.com/posts/japan-pilot-weather/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fly-out.netlify.com/fr/posts/japan-pilot-weather/"
+                />
+  </url>
+  
+</urlset>

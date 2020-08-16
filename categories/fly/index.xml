@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fly on </title>
+    <link>https://fly-out.netlify.com/categories/fly/</link>
+    <description>Recent content in Fly on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Feb 2020 16:22:49 +0900</lastBuildDate>
+    
+	<atom:link href="https://fly-out.netlify.com/categories/fly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Japan Pilot Weather</title>
+      <link>https://fly-out.netlify.com/posts/japan-pilot-weather/</link>
+      <pubDate>Sat, 22 Feb 2020 16:22:49 +0900</pubDate>
+      
+      <guid>https://fly-out.netlify.com/posts/japan-pilot-weather/</guid>
+      <description>Central Japan Weather briefing The Japan Weather Agency (JMA) provides several charts, forecasts and documents for the aeronautical operations. Navigation inside all the documents could be difficult when you don&amp;rsquo;t know all the expressions, words and abbreviations used. Aim of the page is to present the documents, not to recall the traditional abbreviations used inside METARs, TAFs&amp;hellip;
+You should be able to find the charts on this page: link: http://www.data.jma.go.jp/airinfo/index.html[jma website]</description>
+    </item>
+    
+  </channel>
+</rss>

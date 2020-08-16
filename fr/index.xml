@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://fly-out.netlify.com/fr/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Mar 2020 16:22:49 +0900</lastBuildDate>
+    
+	<atom:link href="https://fly-out.netlify.com/fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Une police de caractères open-source optimis&amp;eacute;e pour les &amp;eacute;crans de cockpit</title>
+      <link>https://fly-out.netlify.com/fr/posts/b612/</link>
+      <pubDate>Thu, 19 Mar 2020 16:22:49 +0900</pubDate>
+      
+      <guid>https://fly-out.netlify.com/fr/posts/b612/</guid>
+      <description>Une police de caractères open-source optimisée pour les écrans de cockpit Les habitués des cockpits, les programmeurs et bien d’autres personnes le savent: le choix d’une mauvaise police de caractères diminue la lisibilité et est source d’erreur. Petit exemple, comment faire la différence entre I (i majuscule) et l (l minuscule) ou O (la lettre) et 0 (zéro)? La réponse n’est pas si simple comme vous pouvez le constater de vous même.</description>
+    </item>
+    
+    <item>
+      <title>Feuilles de vol IFR</title>
+      <link>https://fly-out.netlify.com/feuilles-vol-ifr/</link>
+      <pubDate>Sat, 07 Mar 2020 16:22:49 +0900</pubDate>
+      
+      <guid>https://fly-out.netlify.com/feuilles-vol-ifr/</guid>
+      <description>Feuilles de vol Au détour du web je suis tombé sur le site http://www.dauntless-soft.com/
+Il propose des feuilles de vol dans un format intéressant et original (je n’ai pas testé en vol), qu’il me semble bon de partager.
+Je vous invite donc à aller sur http://www.dauntless-soft.com/products/Freebies/IFRFlightPlanner/ et regarder les deux formats de feuilles de vol disponibles. Noter bien que celles-ci sont principalement destinées à des espaces aériens américains.
+Des versions VFR sont également disponibles sur http://www.</description>
+    </item>
+    
+    <item>
+      <title>Japan Pilot Weather</title>
+      <link>https://fly-out.netlify.com/fr/posts/japan-pilot-weather/</link>
+      <pubDate>Sat, 22 Feb 2020 16:22:49 +0900</pubDate>
+      
+      <guid>https://fly-out.netlify.com/fr/posts/japan-pilot-weather/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
