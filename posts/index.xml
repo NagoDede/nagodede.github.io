@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>https://fly-out.netlify.com/posts/</link>
-    <description>Recent content in Posts on </description>
+    <title>Blog on Fly-Out</title>
+    <link>https://fly-out.fr/public/posts/</link>
+    <description>Recent content in Blog on Fly-Out</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2020 16:22:49 +0900</lastBuildDate>
     
-	<atom:link href="https://fly-out.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fly-out.fr/public/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eureka An old Fashion Equation Solver</title>
-      <link>https://fly-out.netlify.com/eureka/</link>
+      <link>https://fly-out.fr/public/eureka/</link>
       <pubDate>Thu, 19 Mar 2020 16:22:49 +0900</pubDate>
       
-      <guid>https://fly-out.netlify.com/eureka/</guid>
+      <guid>https://fly-out.fr/public/eureka/</guid>
       <description>Eureka An old Fashion Equation Solver During my studies (several years ago), I discovered the Equation solver TkSolver. Some days ago, I was trying to find a GNU equivalent to TkSolver as I wanted to perform some computations. My searches were unsuccessful (not exactly but I didn’t find a similar tool) but I found Eureka Solver which is an old solver (may be the first of this type).
 Eureka Solver (and TK solver) is build on the declarative programming approach while the « standard » solvers use a procedural approach.</description>
     </item>
     
     <item>
       <title>Japan Pilot Weather</title>
-      <link>https://fly-out.netlify.com/posts/japan-pilot-weather/</link>
+      <link>https://fly-out.fr/public/posts/japan-pilot-weather/</link>
       <pubDate>Sat, 22 Feb 2020 16:22:49 +0900</pubDate>
       
-      <guid>https://fly-out.netlify.com/posts/japan-pilot-weather/</guid>
-      <description></description>
+      <guid>https://fly-out.fr/public/posts/japan-pilot-weather/</guid>
+      <description>Central Japan Weather briefing The Japan Weather Agency (JMA) provides several charts, forecasts and documents for the aeronautical operations. Navigation inside all the documents could be difficult when you don&amp;rsquo;t know all the expressions, words and abbreviations used. Aim of the page is to present the documents, not to recall the traditional abbreviations used inside METARs, TAFs&amp;hellip;
+You should be able to find the charts on this page: link: http://www.data.jma.go.jp/airinfo/index.html[jma website]</description>
     </item>
     
   </channel>

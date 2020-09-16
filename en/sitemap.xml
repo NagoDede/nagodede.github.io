@@ -3,131 +3,118 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fly-out.netlify.com/categories/</loc>
-    <lastmod>2020-03-19T16:22:49+09:00</lastmod>
+    <loc>https://fly-out.fr/public/tags/engineering/</loc>
+    <lastmod>2020-03-20T00:52:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fly-out.netlify.com/fr/categories/"
+                href="https://fly-out.fr/public/fr/tags/engineering/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fly-out.netlify.com/categories/"
+                href="https://fly-out.fr/public/tags/engineering/"
                 />
   </url>
   
   <url>
-    <loc>https://fly-out.netlify.com/tags/engineering/</loc>
-    <lastmod>2020-03-19T16:22:49+09:00</lastmod>
+    <loc>https://fly-out.fr/public/eureka/</loc>
+    <lastmod>2020-03-20T00:52:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fly-out.fr/public/tags/simulation/</loc>
+    <lastmod>2020-03-20T00:52:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fly-out.fr/public/tags/</loc>
+    <lastmod>2020-06-20T15:00:55+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fly-out.netlify.com/fr/tags/engineering/"
+                href="https://fly-out.fr/public/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fly-out.netlify.com/tags/engineering/"
+                href="https://fly-out.fr/public/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://fly-out.netlify.com/eureka/</loc>
-    <lastmod>2020-03-19T16:22:49+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fly-out.netlify.com/posts/</loc>
-    <lastmod>2020-03-19T16:22:49+09:00</lastmod>
+    <loc>https://fly-out.fr/public/tags/fly/</loc>
+    <lastmod>2020-06-20T15:00:55+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fly-out.netlify.com/fr/posts/"
+                href="https://fly-out.fr/public/fr/tags/fly/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fly-out.netlify.com/posts/"
+                href="https://fly-out.fr/public/tags/fly/"
                 />
   </url>
   
   <url>
-    <loc>https://fly-out.netlify.com/tags/simulation/</loc>
-    <lastmod>2020-03-19T16:22:49+09:00</lastmod>
+    <loc>https://fly-out.fr/public/tags/japan/</loc>
+    <lastmod>2020-06-20T15:00:55+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fly-out.netlify.com/categories/software/</loc>
-    <lastmod>2020-03-19T16:22:49+09:00</lastmod>
+    <loc>https://fly-out.fr/public/posts/japan-pilot-weather/</loc>
+    <lastmod>2020-06-20T15:00:55+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fly-out.fr/public/tags/weather/</loc>
+    <lastmod>2020-06-20T15:00:55+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fly-out.fr/public/about/</loc>
+    <lastmod>2020-03-07T20:14:52+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fly-out.fr/public/</loc>
+    <lastmod>2020-06-20T14:52:07+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fly-out.netlify.com/fr/categories/software/"
+                href="https://fly-out.fr/public/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fly-out.netlify.com/categories/software/"
+                href="https://fly-out.fr/public/"
                 />
   </url>
   
   <url>
-    <loc>https://fly-out.netlify.com/tags/</loc>
-    <lastmod>2020-03-19T16:22:49+09:00</lastmod>
+    <loc>https://fly-out.fr/public/allposts/</loc>
+    <lastmod>2020-03-07T20:14:52+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fly-out.fr/public/posts/</loc>
+    <lastmod>2020-06-20T14:52:07+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fly-out.netlify.com/fr/tags/"
+                href="https://fly-out.fr/public/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fly-out.netlify.com/tags/"
+                href="https://fly-out.fr/public/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://fly-out.netlify.com/posts/japan-pilot-weather/</loc>
-    <lastmod>2020-02-22T16:22:49+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fly-out.netlify.com/fr/posts/japan-pilot-weather/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fly-out.netlify.com/posts/japan-pilot-weather/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://fly-out.netlify.com/</loc>
-    <lastmod>2020-02-21T00:28:38+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fly-out.netlify.com/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fly-out.netlify.com/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://fly-out.netlify.com/about/</loc>
-    <lastmod>2020-02-21T00:28:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fly-out.netlify.com/allposts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://fly-out.netlify.com/search/</loc>
+    <loc>https://fly-out.fr/public/search/</loc>
+    <lastmod>2020-03-07T20:14:52+09:00</lastmod>
   </url>
   
 </urlset>
