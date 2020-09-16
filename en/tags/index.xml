@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Fly-Out</title>
+    <link>https://fly-out.fr/public/en/tags/</link>
+    <description>Recent content in Tags on Fly-Out</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Mar 2020 16:22:49 +0900</lastBuildDate>
+    
+	<atom:link href="https://fly-out.fr/public/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Engineering</title>
+      <link>https://fly-out.fr/public/en/tags/engineering/</link>
+      <pubDate>Thu, 19 Mar 2020 16:22:49 +0900</pubDate>
+      
+      <guid>https://fly-out.fr/public/en/tags/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation</title>
+      <link>https://fly-out.fr/public/en/tags/simulation/</link>
+      <pubDate>Thu, 19 Mar 2020 16:22:49 +0900</pubDate>
+      
+      <guid>https://fly-out.fr/public/en/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fly</title>
+      <link>https://fly-out.fr/public/en/tags/fly/</link>
+      <pubDate>Sat, 22 Feb 2020 16:22:49 +0900</pubDate>
+      
+      <guid>https://fly-out.fr/public/en/tags/fly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>japan</title>
+      <link>https://fly-out.fr/public/en/tags/japan/</link>
+      <pubDate>Sat, 22 Feb 2020 16:22:49 +0900</pubDate>
+      
+      <guid>https://fly-out.fr/public/en/tags/japan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>weather</title>
+      <link>https://fly-out.fr/public/en/tags/weather/</link>
+      <pubDate>Sat, 22 Feb 2020 16:22:49 +0900</pubDate>
+      
+      <guid>https://fly-out.fr/public/en/tags/weather/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

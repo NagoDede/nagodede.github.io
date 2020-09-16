@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>materiel on Fly-Out</title>
+    <link>https://fly-out.fr/public/fr/tags/materiel/</link>
+    <description>Recent content in materiel on Fly-Out</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2020 02:53:38 +0900</lastBuildDate>
+    
+	<atom:link href="https://fly-out.fr/public/fr/tags/materiel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Choisir son casque avion (3) – Une question d’érgonomie</title>
+      <link>https://fly-out.fr/public/fr/posts/choisir_casque_avion_3/</link>
+      <pubDate>Sun, 08 Mar 2020 02:53:38 +0900</pubDate>
+      
+      <guid>https://fly-out.fr/public/fr/posts/choisir_casque_avion_3/</guid>
+      <description>Choisir son casque avion (3) – Une question d’érgonomie J’ai développé précédemment l’origine du bruit et les fréquences principales, comment mesurer le bruit et les conséquences sur l’être humain (Le bruit et nos oreilles).
+Il reste l’opération délicate de choisir son casque. Opération délicate car l’atténuation du casque ne fait pas tout. Encore faut il que ce fameux casque vous aille bien (non pas pour être photogénique, mais pour être à l’aise avec).</description>
+    </item>
+    
+  </channel>
+</rss>
