@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nagodede.github.io/fr/pages/whoiam/</loc>
+    <lastmod>2020-10-24T16:04:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nagodede.github.io/fr/tags/aeronautique/</loc>
+    <lastmod>2020-10-24T16:04:23+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nagodede.github.io/fr/tags/engineering/</loc>
-    <lastmod>2020-03-24T18:02:41+09:00</lastmod>
+    <lastmod>2020-10-24T16:04:23+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +24,36 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://nagodede.github.io/fr/tags/engineering/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nagodede.github.io/fr/tags/informatique/</loc>
+    <lastmod>2020-10-24T16:04:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nagodede.github.io/fr/pages/</loc>
+    <lastmod>2020-10-24T16:04:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nagodede.github.io/fr/tags/software/</loc>
+    <lastmod>2020-10-24T16:04:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nagodede.github.io/fr/tags/</loc>
+    <lastmod>2020-10-24T16:04:23+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nagodede.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nagodede.github.io/fr/tags/"
                 />
   </url>
   
@@ -29,21 +69,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://nagodede.github.io/fr/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nagodede.github.io/fr/tags/</loc>
-    <lastmod>2020-03-24T18:02:41+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nagodede.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://nagodede.github.io/fr/tags/"
                 />
   </url>
   
@@ -79,7 +104,7 @@
   
   <url>
     <loc>https://nagodede.github.io/fr/</loc>
-    <lastmod>2020-06-20T14:52:07+09:00</lastmod>
+    <lastmod>2020-09-16T17:10:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

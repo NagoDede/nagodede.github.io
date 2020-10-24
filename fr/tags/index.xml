@@ -6,17 +6,44 @@
     <description>Recent content in Tags on Fly-Out</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2020 16:22:49 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2020 13:28:58 +0900</lastBuildDate>
     
 	<atom:link href="https://nagodede.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Aeronautique</title>
+      <link>https://nagodede.github.io/fr/tags/aeronautique/</link>
+      <pubDate>Wed, 16 Sep 2020 13:28:58 +0900</pubDate>
+      
+      <guid>https://nagodede.github.io/fr/tags/aeronautique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Engineering</title>
       <link>https://nagodede.github.io/fr/tags/engineering/</link>
-      <pubDate>Thu, 19 Mar 2020 16:22:49 +0900</pubDate>
+      <pubDate>Wed, 16 Sep 2020 13:28:58 +0900</pubDate>
       
       <guid>https://nagodede.github.io/fr/tags/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informatique</title>
+      <link>https://nagodede.github.io/fr/tags/informatique/</link>
+      <pubDate>Wed, 16 Sep 2020 13:28:58 +0900</pubDate>
+      
+      <guid>https://nagodede.github.io/fr/tags/informatique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://nagodede.github.io/fr/tags/software/</link>
+      <pubDate>Wed, 16 Sep 2020 13:28:58 +0900</pubDate>
+      
+      <guid>https://nagodede.github.io/fr/tags/software/</guid>
       <description></description>
     </item>
     
