@@ -3,8 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nagodede.github.io/aip/</loc>
+    <lastmod>2020-10-25T23:49:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nagodede.github.io/pages/whoiam/</loc>
+    <lastmod>2020-10-25T23:49:19+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nagodede.github.io/fr/pages/whoiam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nagodede.github.io/pages/whoiam/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nagodede.github.io/tags/aeronautique/</loc>
+    <lastmod>2020-10-25T23:49:19+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nagodede.github.io/fr/tags/aeronautique/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nagodede.github.io/tags/aeronautique/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nagodede.github.io/tags/aip/</loc>
+    <lastmod>2020-10-25T23:49:19+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nagodede.github.io/aip/japan/</loc>
+    <lastmod>2020-10-25T23:49:19+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nagodede.github.io/tags/engineering/</loc>
-    <lastmod>2020-03-20T00:52:56+09:00</lastmod>
+    <lastmod>2020-10-25T23:49:19+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -18,18 +64,63 @@
   </url>
   
   <url>
-    <loc>https://nagodede.github.io/eureka/</loc>
-    <lastmod>2020-03-20T00:52:56+09:00</lastmod>
+    <loc>https://nagodede.github.io/pages/filetree/</loc>
+    <lastmod>2020-10-25T23:49:19+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nagodede.github.io/tags/simulation/</loc>
-    <lastmod>2020-03-20T00:52:56+09:00</lastmod>
+    <loc>https://nagodede.github.io/tags/informatique/</loc>
+    <lastmod>2020-10-25T23:49:19+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nagodede.github.io/fr/tags/informatique/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nagodede.github.io/tags/informatique/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nagodede.github.io/tags/japan/</loc>
+    <lastmod>2020-10-25T23:49:19+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nagodede.github.io/pages/</loc>
+    <lastmod>2020-10-25T23:49:19+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nagodede.github.io/fr/pages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nagodede.github.io/pages/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nagodede.github.io/tags/software/</loc>
+    <lastmod>2020-10-25T23:49:19+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nagodede.github.io/fr/tags/software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nagodede.github.io/tags/software/"
+                />
   </url>
   
   <url>
     <loc>https://nagodede.github.io/tags/</loc>
-    <lastmod>2020-06-20T15:00:55+09:00</lastmod>
+    <lastmod>2020-10-25T23:49:19+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -40,6 +131,16 @@
                 hreflang="en"
                 href="https://nagodede.github.io/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://nagodede.github.io/eureka/</loc>
+    <lastmod>2020-03-20T00:52:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nagodede.github.io/tags/simulation/</loc>
+    <lastmod>2020-03-20T00:52:56+09:00</lastmod>
   </url>
   
   <url>
@@ -55,11 +156,6 @@
                 hreflang="en"
                 href="https://nagodede.github.io/tags/fly/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://nagodede.github.io/tags/japan/</loc>
-    <lastmod>2020-06-20T15:00:55+09:00</lastmod>
   </url>
   
   <url>
