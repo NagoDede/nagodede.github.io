@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fly-Out</title>
+    <link>https://nagodede.github.io/aip/</link>
+    <description>Recent content on Fly-Out</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Sep 2020 13:28:58 +0900</lastBuildDate>
+    
+	<atom:link href="https://nagodede.github.io/aip/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AIP Japan</title>
+      <link>https://nagodede.github.io/aip/japan/</link>
+      <pubDate>Wed, 16 Sep 2020 13:28:58 +0900</pubDate>
+      
+      <guid>https://nagodede.github.io/aip/japan/</guid>
+      <description>List the file trees </description>
+    </item>
+    
+  </channel>
+</rss>

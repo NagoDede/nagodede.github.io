@@ -5,11 +5,31 @@
   <url>
     <loc>https://nagodede.github.io/fr/pages/whoiam/</loc>
     <lastmod>2020-10-24T16:04:23+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nagodede.github.io/pages/whoiam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nagodede.github.io/fr/pages/whoiam/"
+                />
   </url>
   
   <url>
     <loc>https://nagodede.github.io/fr/tags/aeronautique/</loc>
     <lastmod>2020-10-24T16:04:23+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nagodede.github.io/tags/aeronautique/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nagodede.github.io/fr/tags/aeronautique/"
+                />
   </url>
   
   <url>
@@ -30,16 +50,46 @@
   <url>
     <loc>https://nagodede.github.io/fr/tags/informatique/</loc>
     <lastmod>2020-10-24T16:04:23+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nagodede.github.io/tags/informatique/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nagodede.github.io/fr/tags/informatique/"
+                />
   </url>
   
   <url>
     <loc>https://nagodede.github.io/fr/pages/</loc>
     <lastmod>2020-10-24T16:04:23+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nagodede.github.io/pages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nagodede.github.io/fr/pages/"
+                />
   </url>
   
   <url>
     <loc>https://nagodede.github.io/fr/tags/software/</loc>
     <lastmod>2020-10-24T16:04:23+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nagodede.github.io/tags/software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nagodede.github.io/fr/tags/software/"
+                />
   </url>
   
   <url>
