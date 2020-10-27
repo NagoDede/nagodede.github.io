@@ -1,86 +1,392 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on Fly-Out</title>
-    <link>https://nagodede.github.io/</link>
-    <description>Recent content in Home on Fly-Out</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate>
-    
-	<atom:link href="https://nagodede.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>A-propos de l&#39;auteur</title>
-      <link>https://nagodede.github.io/pages/whoiam/</link>
-      <pubDate>Wed, 16 Sep 2020 13:28:58 +0900</pubDate>
-      
-      <guid>https://nagodede.github.io/pages/whoiam/</guid>
-      <description>Cette page est une bio informelle, mon CV professionnel est disponible ici.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Fly-Out</title><link>https://nagodede.github.io/</link><description>Recent content in Home on Fly-Out</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://nagodede.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>A-propos de l'auteur</title><link>https://nagodede.github.io/pages/whoiam/</link><pubDate>Wed, 16 Sep 2020 13:28:58 +0900</pubDate><guid>https://nagodede.github.io/pages/whoiam/</guid><description>Cette page est une bio informelle, mon CV professionnel est disponible ici.
 *Mon nom est V. depuis ma naissance dans les années 80.
- Pourquoi est ce que je préfère rester anonyme ?
+Pourquoi est ce que je préfère rester anonyme ?
 Simplement, pour vivre heureux, vivons cachés.
 Internet est plein de surprises, bonnes et mauvaises. Un des moyens les plus simples pour se prémunir des mauvaises surprises et de rester cacher.
 J&amp;rsquo;argumente ce choix par l&amp;rsquo;analyse suivante:
- Soit, vous me connaissez d&amp;rsquo;une manière ou d&amp;rsquo;une autre, et dans ce cas, il est inutile que je vous redonne ces informations, Soit un moteur de recherche vous a amené ici, et dans ce cas là, la connaissance de mon identité n&amp;rsquo;a aucun intérêt dans l&amp;rsquo;immédiat.</description>
-    </item>
-    
-    <item>
-      <title>AIP Japan</title>
-      <link>https://nagodede.github.io/aip/japan/</link>
-      <pubDate>Wed, 16 Sep 2020 13:28:58 +0900</pubDate>
-      
-      <guid>https://nagodede.github.io/aip/japan/</guid>
-      <description>The list is retrieved from the AIS Japan RJAAchartsfullRJAFchartsfullRJAHchartsfullRJAKN/AfullRJAMN/AfullRJANchartsfullRJAWchartsfullRJAZchartsfullRJBBchartsfullRJBDchartsfullRJBEchartsfullRJBKchartsfullRJBTchartsfullRJCAN/AfullRJCBchartsfullRJCCchartsfullRJCHchartsfullRJCJchartsfullRJCKchartsfullRJCMchartsfullRJCNchartsfullRJCOchartsfullRJCRchartsfullRJCTchartsfullRJCWchartsfullRJDAchartsfullRJDBchartsfullRJDCchartsfullRJDKchartsfullRJDMN/AfullRJDOchartsfullRJDTchartsfullRJDUchartsfullRJEBchartsfullRJECchartsfullRJEOchartsfullRJERchartsfullRJFAchartsfullRJFCchartsfullRJFEchartsfullRJFFchartsfullRJFGchartsfullRJFKchartsfullRJFMchartsfullRJFNchartsfullRJFOchartsfullRJFRchartsfullRJFSchartsfullRJFTchartsfullRJFUchartsfullRJFYchartsfullRJFZchartsfullRJGGchartsfullRJKAchartsfullRJKBchartsfullRJKIchartsfullRJKNchartsfullRJNAchartsfullRJNFchartsfullRJNGchartsfullRJNHchartsfullRJNKchartsfullRJNOchartsfullRJNSchartsfullRJNTchartsfullRJNWchartsfullRJNYchartsfullRJOAchartsfullRJOBchartsfullRJOCchartsfullRJOEchartsfullRJOFchartsfullRJOHchartsfullRJOIchartsfullRJOKchartsfullRJOMchartsfullRJOOchartsfullRJORchartsfullRJOSchartsfullRJOTchartsfullRJOWchartsfullRJOYchartsfullRJOZchartsfullRJSAchartsfullRJSCchartsfullRJSDchartsfullRJSFchartsfullRJSHchartsfullRJSIchartsfullRJSKchartsfullRJSMchartsfullRJSNchartsfullRJSOchartsfullRJSRchartsfullRJSSchartsfullRJSTchartsfullRJSUN/AfullRJSYchartsfullRJTAchartsfullRJTCchartsfullRJTEchartsfullRJTFchartsfullRJTHchartsfullRJTJchartsfullRJTKchartsfullRJTLchartsfullRJTOchartsfullRJTQchartsfullRJTTchartsfullRJTUchartsfullRJTYchartsfullROAHchartsfullRODNchartsfullROIGchartsfullROKJchartsfullROKRchartsfullROMDchartsfullROMYchartsfullRORAchartsfullROREchartsfullRORHchartsfullRORKchartsfullRORSchartsfullRORTchartsfullRORYchartsfullROTMchartsfullROYNchartsfull</description>
-    </item>
-    
-    <item>
-      <title>filetest</title>
-      <link>https://nagodede.github.io/pages/filetree/</link>
-      <pubDate>Wed, 16 Sep 2020 13:28:58 +0900</pubDate>
-      
-      <guid>https://nagodede.github.io/pages/filetree/</guid>
-      <description>List the file trees </description>
-    </item>
-    
-    <item>
-      <title>Eureka An old Fashion Equation Solver</title>
-      <link>https://nagodede.github.io/eureka/</link>
-      <pubDate>Thu, 19 Mar 2020 16:22:49 +0900</pubDate>
-      
-      <guid>https://nagodede.github.io/eureka/</guid>
-      <description>Eureka An old Fashion Equation Solver During my studies (several years ago), I discovered the Equation solver TkSolver. Some days ago, I was trying to find a GNU equivalent to TkSolver as I wanted to perform some computations. My searches were unsuccessful (not exactly but I didn’t find a similar tool) but I found Eureka Solver which is an old solver (may be the first of this type).
-Eureka Solver (and TK solver) is build on the declarative programming approach while the « standard » solvers use a procedural approach.</description>
-    </item>
-    
-    <item>
-      <title>Japan Pilot Weather</title>
-      <link>https://nagodede.github.io/posts/japan-pilot-weather/</link>
-      <pubDate>Sat, 22 Feb 2020 16:22:49 +0900</pubDate>
-      
-      <guid>https://nagodede.github.io/posts/japan-pilot-weather/</guid>
-      <description>Central Japan Weather briefing The Japan Weather Agency (JMA) provides several charts, forecasts and documents for the aeronautical operations. Navigation inside all the documents could be difficult when you don&amp;rsquo;t know all the expressions, words and abbreviations used. Aim of the page is to present the documents, not to recall the traditional abbreviations used inside METARs, TAFs&amp;hellip;
-You should be able to find the charts on this page: link: http://www.data.jma.go.jp/airinfo/index.html[jma website]</description>
-    </item>
-    
-    <item>
-      <title>About Fly-out</title>
-      <link>https://nagodede.github.io/about/</link>
-      <pubDate>Fri, 21 Feb 2020 00:28:38 +0000</pubDate>
-      
-      <guid>https://nagodede.github.io/about/</guid>
-      <description>Fly-out speaks about general aviation, softwares and all that could be part of a technical conversation. The main motivation for writing this website was to share knowledges and tools for pilots.</description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>https://nagodede.github.io/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nagodede.github.io/search/</guid>
-      <description>Manticore Search </description>
-    </item>
-    
-  </channel>
-</rss>
+Soit, vous me connaissez d&amp;rsquo;une manière ou d&amp;rsquo;une autre, et dans ce cas, il est inutile que je vous redonne ces informations, Soit un moteur de recherche vous a amené ici, et dans ce cas là, la connaissance de mon identité n&amp;rsquo;a aucun intérêt dans l&amp;rsquo;immédiat.</description></item><item><title>AIP Japan</title><link>https://nagodede.github.io/aip/japan/</link><pubDate>Wed, 16 Sep 2020 13:28:58 +0900</pubDate><guid>https://nagodede.github.io/aip/japan/</guid><description>The list is retrieved from the AIS Japan https://nagodede.github.io/aip/japan/documents/info.json
+Effective Date: 2020-10-08T00:00:00Z
+Process Date: 2020-10-08T00:00:00Z
+RJAA
+charts
+full
+RJAF
+charts
+full
+RJAH
+charts
+full
+RJAK
+N/A
+full
+RJAM
+N/A
+full
+RJAN
+charts
+full
+RJAW
+charts
+full
+RJAZ
+charts
+full
+RJBB
+charts
+full
+RJBD
+charts
+full
+RJBE
+charts
+full
+RJBK
+charts
+full
+RJBT
+charts
+full
+RJCA
+N/A
+full
+RJCB
+charts
+full
+RJCC
+charts
+full
+RJCH
+charts
+full
+RJCJ
+charts
+full
+RJCK
+charts
+full
+RJCM
+charts
+full
+RJCN
+charts
+full
+RJCO
+charts
+full
+RJCR
+charts
+full
+RJCT
+charts
+full
+RJCW
+charts
+full
+RJDA
+charts
+full
+RJDB
+charts
+full
+RJDC
+charts
+full
+RJDK
+charts
+full
+RJDM
+N/A
+full
+RJDO
+charts
+full
+RJDT
+charts
+full
+RJDU
+charts
+full
+RJEB
+charts
+full
+RJEC
+charts
+full
+RJEO
+charts
+full
+RJER
+charts
+full
+RJFA
+charts
+full
+RJFC
+charts
+full
+RJFE
+charts
+full
+RJFF
+charts
+full
+RJFG
+charts
+full
+RJFK
+charts
+full
+RJFM
+charts
+full
+RJFN
+charts
+full
+RJFO
+charts
+full
+RJFR
+charts
+full
+RJFS
+charts
+full
+RJFT
+charts
+full
+RJFU
+charts
+full
+RJFY
+charts
+full
+RJFZ
+charts
+full
+RJGG
+charts
+full
+RJKA
+charts
+full
+RJKB
+charts
+full
+RJKI
+charts
+full
+RJKN
+charts
+full
+RJNA
+charts
+full
+RJNF
+charts
+full
+RJNG
+charts
+full
+RJNH
+charts
+full
+RJNK
+charts
+full
+RJNO
+charts
+full
+RJNS
+charts
+full
+RJNT
+charts
+full
+RJNW
+charts
+full
+RJNY
+charts
+full
+RJOA
+charts
+full
+RJOB
+charts
+full
+RJOC
+charts
+full
+RJOE
+charts
+full
+RJOF
+charts
+full
+RJOH
+charts
+full
+RJOI
+charts
+full
+RJOK
+charts
+full
+RJOM
+charts
+full
+RJOO
+charts
+full
+RJOR
+charts
+full
+RJOS
+charts
+full
+RJOT
+charts
+full
+RJOW
+charts
+full
+RJOY
+charts
+full
+RJOZ
+charts
+full
+RJSA
+charts
+full
+RJSC
+charts
+full
+RJSD
+charts
+full
+RJSF
+charts
+full
+RJSH
+charts
+full
+RJSI
+charts
+full
+RJSK
+charts
+full
+RJSM
+charts
+full
+RJSN
+charts
+full
+RJSO
+charts
+full
+RJSR
+charts
+full
+RJSS
+charts
+full
+RJST
+charts
+full
+RJSU
+N/A
+full
+RJSY
+charts
+full
+RJTA
+charts
+full
+RJTC
+charts
+full
+RJTE
+charts
+full
+RJTF
+charts
+full
+RJTH
+charts
+full
+RJTJ
+charts
+full
+RJTK
+charts
+full
+RJTL
+charts
+full
+RJTO
+charts
+full
+RJTQ
+charts
+full
+RJTT
+charts
+full
+RJTU
+charts
+full
+RJTY
+charts
+full
+ROAH
+charts
+full
+RODN
+charts
+full
+ROIG
+charts
+full
+ROKJ
+charts
+full
+ROKR
+charts
+full
+ROMD
+charts
+full
+ROMY
+charts
+full
+RORA
+charts
+full
+RORE
+charts
+full
+RORH
+charts
+full
+RORK
+charts
+full
+RORS
+charts
+full
+RORT
+charts
+full
+RORY
+charts
+full
+ROTM
+charts
+full
+ROYN
+charts
+full</description></item><item><title>filetest</title><link>https://nagodede.github.io/pages/filetree/</link><pubDate>Wed, 16 Sep 2020 13:28:58 +0900</pubDate><guid>https://nagodede.github.io/pages/filetree/</guid><description>List the file trees</description></item><item><title>Eureka An old Fashion Equation Solver</title><link>https://nagodede.github.io/eureka/</link><pubDate>Thu, 19 Mar 2020 16:22:49 +0900</pubDate><guid>https://nagodede.github.io/eureka/</guid><description>Eureka An old Fashion Equation Solver During my studies (several years ago), I discovered the Equation solver TkSolver. Some days ago, I was trying to find a GNU equivalent to TkSolver as I wanted to perform some computations. My searches were unsuccessful (not exactly but I didn’t find a similar tool) but I found Eureka Solver which is an old solver (may be the first of this type).
+Eureka Solver (and TK solver) is build on the declarative programming approach while the « standard » solvers use a procedural approach.</description></item><item><title>Japan Pilot Weather</title><link>https://nagodede.github.io/posts/japan-pilot-weather/</link><pubDate>Sat, 22 Feb 2020 16:22:49 +0900</pubDate><guid>https://nagodede.github.io/posts/japan-pilot-weather/</guid><description>Central Japan Weather briefing The Japan Weather Agency (JMA) provides several charts, forecasts and documents for the aeronautical operations. Navigation inside all the documents could be difficult when you don&amp;rsquo;t know all the expressions, words and abbreviations used. Aim of the page is to present the documents, not to recall the traditional abbreviations used inside METARs, TAFs&amp;hellip;
+You should be able to find the charts on this page: link: http://www.data.jma.go.jp/airinfo/index.html[jma website]</description></item><item><title>About Fly-out</title><link>https://nagodede.github.io/about/</link><pubDate>Fri, 21 Feb 2020 00:28:38 +0000</pubDate><guid>https://nagodede.github.io/about/</guid><description>Fly-out speaks about general aviation, softwares and all that could be part of a technical conversation. The main motivation for writing this website was to share knowledges and tools for pilots.</description></item><item><title>Search</title><link>https://nagodede.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nagodede.github.io/search/</guid><description>Manticore Search</description></item></channel></rss>
