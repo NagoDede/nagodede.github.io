@@ -12,6 +12,23 @@
  "Navaids": null,
  "CountryCode": "Japan",
  "Airports": [
+   {
+   "Title": "Tokyo INTL",
+   "Icao": "RJTT",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 83,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
   {
    "Title": "Aguni",
    "Icao": "RORA",
@@ -2143,23 +2160,6 @@
    "DownloadCount": 1,
    "Wg": {},
    "NbDownloaded": 20,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Tokyo INTL",
-   "Icao": "RJTT",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 83,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
