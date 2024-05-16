@@ -1,23 +1,23 @@
 {
  "IsActive": true,
- "EffectiveDate": "2024-04-18T00:00:00Z",
- "PublicationDate": "2024-04-18T00:00:00Z",
- "NextEffectiveDate": "2024-05-16T00:00:00Z",
- "ProcessDate": "2024-04-18T00:56:28.324692523Z",
+ "EffectiveDate": "2024-05-16T00:00:00Z",
+ "PublicationDate": "2024-05-16T00:00:00Z",
+ "NextEffectiveDate": "2024-06-13T00:00:00Z",
+ "ProcessDate": "2024-05-16T12:25:59.664638547Z",
  "IsValidDate": true,
- "PartialURL": "20240418/eAIP/20240418/index.html",
+ "PartialURL": "20240516/eAIP/20240516/index.html",
  "IsPartialURLValid": true,
- "FullURLDir": "https://aisjapan.mlit.go.jp/html/AIP/html/20240418/eAIP/20240418/",
- "FullURLPage": "https://aisjapan.mlit.go.jp/html/AIP/html/20240418/eAIP/20240418/index.html",
+ "FullURLDir": "https://aisjapan.mlit.go.jp/html/AIP/html/20240516/eAIP/20240516/",
+ "FullURLPage": "https://aisjapan.mlit.go.jp/html/AIP/html/20240516/eAIP/20240516/index.html",
  "Navaids": null,
  "CountryCode": "Japan",
  "Airports": [
   {
-   "Title": "Yoron",
-   "Icao": "RORY",
+   "Title": "Chofu",
+   "Icao": "RJTF",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 13,
+   "NbDownloaded": 5,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -30,11 +30,11 @@
    "Com": null
   },
   {
-   "Title": "Akeno",
-   "Icao": "RJOE",
+   "Title": "Gifu",
+   "Icao": "RJNG",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 8,
+   "NbDownloaded": 5,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -47,11 +47,11 @@
    "Com": null
   },
   {
-   "Title": "Miyazaki",
-   "Icao": "RJFM",
+   "Title": "Futenma",
+   "Icao": "ROTM",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 20,
+   "NbDownloaded": 2,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -81,6 +81,40 @@
    "Com": null
   },
   {
+   "Title": "Yonaguni Jima",
+   "Icao": "ROYN",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 10,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Kamigoto",
+   "Icao": "RJDK",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 2,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
    "Title": "Akita",
    "Icao": "RJSK",
    "DownloadCount": 1,
@@ -98,8 +132,59 @@
    "Com": null
   },
   {
-   "Title": "Miyakejima",
-   "Icao": "RJTQ",
+   "Title": "Hachijojima",
+   "Icao": "RJTH",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 16,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Asahikawa(Civil)",
+   "Icao": "RJEC",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 13,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Kanazawa/Komatsu",
+   "Icao": "RJNK",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 15,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Rishiri Is.",
+   "Icao": "RJER",
    "DownloadCount": 1,
    "Wg": {},
    "NbDownloaded": 10,
@@ -132,130 +217,11 @@
    "Com": null
   },
   {
-   "Title": "Izumo",
-   "Icao": "RJOC",
+   "Title": "Hachinohe",
+   "Icao": "RJSH",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 16,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Oshima",
-   "Icao": "RJTO",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 10,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Tokachi",
-   "Icao": "RJCT",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 5,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Oita",
-   "Icao": "RJFO",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 21,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Nanki Shirahama",
-   "Icao": "RJBD",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 13,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Shimojishima",
-   "Icao": "RORS",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 16,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "New Ishigaki",
-   "Icao": "ROIG",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 22,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Nagoya",
-   "Icao": "RJNA",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 20,
+   "NbDownloaded": 6,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -285,11 +251,11 @@
    "Com": null
   },
   {
-   "Title": "Hiroshima",
-   "Icao": "RJOA",
+   "Title": "Aomori",
+   "Icao": "RJSA",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 26,
+   "NbDownloaded": 19,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -302,11 +268,11 @@
    "Com": null
   },
   {
-   "Title": "Amakusa",
-   "Icao": "RJDA",
+   "Title": "Hanamaki",
+   "Icao": "RJSI",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 13,
+   "NbDownloaded": 23,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -319,76 +285,8 @@
    "Com": null
   },
   {
-   "Title": "Amami",
-   "Icao": "RJKA",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 21,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Nakashibetsu",
-   "Icao": "RJCN",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 14,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Kitadaito",
-   "Icao": "RORK",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 9,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Miyako",
-   "Icao": "ROMY",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 16,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Sado",
-   "Icao": "RJSD",
+   "Title": "Hateruma",
+   "Icao": "RORH",
    "DownloadCount": 1,
    "Wg": {},
    "NbDownloaded": 2,
@@ -421,195 +319,8 @@
    "Com": null
   },
   {
-   "Title": "Aomori",
-   "Icao": "RJSA",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 19,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Nagasaki",
-   "Icao": "RJFU",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 22,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Kasumigaura",
-   "Icao": "RJAK",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 1,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Ojika",
-   "Icao": "RJDO",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 2,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Okayama",
-   "Icao": "RJOB",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 22,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Monbetsu",
-   "Icao": "RJEB",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 10,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Minamitorishima",
-   "Icao": "RJAM",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 1,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Oki",
-   "Icao": "RJNO",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 15,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Kasuminome",
-   "Icao": "RJSU",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 1,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Kerama",
-   "Icao": "ROKR",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 3,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Matsuyama",
-   "Icao": "RJOM",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 15,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Asahikawa(Civil)",
-   "Icao": "RJEC",
+   "Title": "Yoron",
+   "Icao": "RORY",
    "DownloadCount": 1,
    "Wg": {},
    "NbDownloaded": 13,
@@ -625,11 +336,11 @@
    "Com": null
   },
   {
-   "Title": "Naha",
-   "Icao": "ROAH",
+   "Title": "Miyakejima",
+   "Icao": "RJTQ",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 33,
+   "NbDownloaded": 10,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -642,11 +353,11 @@
    "Com": null
   },
   {
-   "Title": "Saga",
-   "Icao": "RJFS",
+   "Title": "Chubu Centrair INTL",
+   "Icao": "RJGG",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 18,
+   "NbDownloaded": 38,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -659,11 +370,45 @@
    "Com": null
   },
   {
-   "Title": "Osaka/Yao",
-   "Icao": "RJOY",
+   "Title": "Iki",
+   "Icao": "RJDB",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 9,
+   "NbDownloaded": 12,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Amami",
+   "Icao": "RJKA",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 21,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Iruma",
+   "Icao": "RJTJ",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 6,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -693,11 +438,11 @@
    "Com": null
   },
   {
-   "Title": "Yamagata",
-   "Icao": "RJSC",
+   "Title": "Minamitorishima",
+   "Icao": "RJAM",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 18,
+   "NbDownloaded": 1,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -710,11 +455,11 @@
    "Com": null
   },
   {
-   "Title": "Tsuiki",
-   "Icao": "RJFZ",
+   "Title": "Misawa",
+   "Icao": "RJSM",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 8,
+   "NbDownloaded": 14,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -727,11 +472,11 @@
    "Com": null
   },
   {
-   "Title": "Tokunoshima Is.",
-   "Icao": "RJKN",
+   "Title": "Amakusa",
+   "Icao": "RJDA",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 15,
+   "NbDownloaded": 13,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -744,59 +489,8 @@
    "Com": null
   },
   {
-   "Title": "Tsushima",
-   "Icao": "RJDT",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 15,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Rebun",
-   "Icao": "RJCR",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 2,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Ozuki",
-   "Icao": "RJOZ",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 6,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Rishiri Is.",
-   "Icao": "RJER",
+   "Title": "Tajima",
+   "Icao": "RJBT",
    "DownloadCount": 1,
    "Wg": {},
    "NbDownloaded": 10,
@@ -812,8 +506,93 @@
    "Com": null
   },
   {
-   "Title": "Ominato",
-   "Icao": "RJSO",
+   "Title": "Kanoya",
+   "Icao": "RJFY",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 13,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Hyakuri",
+   "Icao": "RJAH",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 31,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Memanbetsu",
+   "Icao": "RJCM",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 18,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Kume Jima",
+   "Icao": "ROKJ",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 9,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Iwakuni",
+   "Icao": "RJOI",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 8,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Metabaru",
+   "Icao": "RJDM",
    "DownloadCount": 1,
    "Wg": {},
    "NbDownloaded": 4,
@@ -829,11 +608,11 @@
    "Com": null
   },
   {
-   "Title": "Narita INTL",
-   "Icao": "RJAA",
+   "Title": "Nakashibetsu",
+   "Icao": "RJCN",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 47,
+   "NbDownloaded": 14,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -846,96 +625,11 @@
    "Com": null
   },
   {
-   "Title": "Omura",
-   "Icao": "RJDU",
+   "Title": "Nagasaki",
+   "Icao": "RJFU",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 12,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Niijima",
-   "Icao": "RJAN",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 7,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Yamaguchi-Ube",
-   "Icao": "RJDC",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 11,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Atsugi",
-   "Icao": "RJTA",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 7,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Kikai/Kikaigashima\nIs.",
-   "Icao": "RJKI",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 11,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Fukushima",
-   "Icao": "RJSF",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 17,
+   "NbDownloaded": 22,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -965,11 +659,11 @@
    "Com": null
   },
   {
-   "Title": "Sapporo/New Chitose",
-   "Icao": "RJCC",
+   "Title": "Nagoya",
+   "Icao": "RJNA",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 42,
+   "NbDownloaded": 20,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -982,11 +676,11 @@
    "Com": null
   },
   {
-   "Title": "Obihiro",
-   "Icao": "RJCB",
+   "Title": "Izumo",
+   "Icao": "RJOC",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 15,
+   "NbDownloaded": 16,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -999,11 +693,11 @@
    "Com": null
   },
   {
-   "Title": "Niigata",
-   "Icao": "RJSN",
+   "Title": "Iejima(Civil)",
+   "Icao": "RORE",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 22,
+   "NbDownloaded": 2,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1016,8 +710,25 @@
    "Com": null
   },
   {
-   "Title": "Noto",
-   "Icao": "RJNW",
+   "Title": "Kitadaito",
+   "Icao": "RORK",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 9,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Iwami",
+   "Icao": "RJOW",
    "DownloadCount": 1,
    "Wg": {},
    "NbDownloaded": 14,
@@ -1033,96 +744,11 @@
    "Com": null
   },
   {
-   "Title": "Hofu",
-   "Icao": "RJOF",
+   "Title": "Naha",
+   "Icao": "ROAH",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 4,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Kochi",
-   "Icao": "RJOK",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 21,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Matsumoto",
-   "Icao": "RJAF",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 13,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Osaka INTL",
-   "Icao": "RJOO",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 26,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Kumamoto",
-   "Icao": "RJFT",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 22,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Kohnan",
-   "Icao": "RJBK",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 4,
+   "NbDownloaded": 33,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1152,6 +778,244 @@
    "Com": null
   },
   {
+   "Title": "Hofu",
+   "Icao": "RJOF",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 4,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Monbetsu",
+   "Icao": "RJEB",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 10,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Iwoto",
+   "Icao": "RJAW",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 13,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Yamaguchi-Ube",
+   "Icao": "RJDC",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 11,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Kasumigaura",
+   "Icao": "RJAK",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 1,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Kasuminome",
+   "Icao": "RJSU",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 1,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Kadena",
+   "Icao": "RODN",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 15,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Oita",
+   "Icao": "RJFO",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 21,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Atsugi",
+   "Icao": "RJTA",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 7,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Hiroshima",
+   "Icao": "RJOA",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 26,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Miyako",
+   "Icao": "ROMY",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 16,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Miyazaki",
+   "Icao": "RJFM",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 20,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Kerama",
+   "Icao": "ROKR",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 3,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Kikai/Kikaigashima\nIs.",
+   "Icao": "RJKI",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 11,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
    "Title": "Kushiro",
    "Icao": "RJCK",
    "DownloadCount": 1,
@@ -1169,11 +1033,215 @@
    "Com": null
   },
   {
-   "Title": "Gifu",
-   "Icao": "RJNG",
+   "Title": "Matsumoto",
+   "Icao": "RJAF",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 5,
+   "NbDownloaded": 13,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Matsushima",
+   "Icao": "RJST",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 6,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Miho",
+   "Icao": "RJOH",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 20,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Kagoshima",
+   "Icao": "RJFK",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 22,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Kochi",
+   "Icao": "RJOK",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 21,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Fukuoka",
+   "Icao": "RJFF",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 29,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Yokota",
+   "Icao": "RJTY",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 13,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Tarama",
+   "Icao": "RORT",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 8,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Kumamoto",
+   "Icao": "RJFT",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 23,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Akeno",
+   "Icao": "RJOE",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 8,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Tateyama",
+   "Icao": "RJTE",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 3,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Okierabu",
+   "Icao": "RJKB",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 15,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Shimojishima",
+   "Icao": "RORS",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 16,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1220,11 +1288,11 @@
    "Com": null
   },
   {
-   "Title": "Kanazawa/Komatsu",
-   "Icao": "RJNK",
+   "Title": "Shimofusa",
+   "Icao": "RJTL",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 15,
+   "NbDownloaded": 8,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1237,28 +1305,11 @@
    "Com": null
   },
   {
-   "Title": "Hanamaki",
-   "Icao": "RJSI",
+   "Title": "Nanki Shirahama",
+   "Icao": "RJBD",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 23,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Iejima(Civil)",
-   "Icao": "RORE",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 2,
+   "NbDownloaded": 13,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1288,42 +1339,8 @@
    "Com": null
   },
   {
-   "Title": "Hachijojima",
-   "Icao": "RJTH",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 16,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Kobe",
-   "Icao": "RJBE",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 13,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Okierabu",
-   "Icao": "RJKB",
+   "Title": "Matsuyama",
+   "Icao": "RJOM",
    "DownloadCount": 1,
    "Wg": {},
    "NbDownloaded": 15,
@@ -1339,8 +1356,59 @@
    "Com": null
   },
   {
-   "Title": "Hachinohe",
-   "Icao": "RJSH",
+   "Title": "Kohnan",
+   "Icao": "RJBK",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 4,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Tokushima",
+   "Icao": "RJOS",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 20,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Saga",
+   "Icao": "RJFS",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 18,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Ozuki",
+   "Icao": "RJOZ",
    "DownloadCount": 1,
    "Wg": {},
    "NbDownloaded": 6,
@@ -1356,79 +1424,45 @@
    "Com": null
   },
   {
-   "Title": "Kume Jima",
-   "Icao": "ROKJ",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 9,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Hateruma",
-   "Icao": "RORH",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 2,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Iki",
-   "Icao": "RJDB",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 12,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Fukuoka",
-   "Icao": "RJFF",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 29,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Odate-Noshiro",
-   "Icao": "RJSR",
+   "Title": "Tanegashima",
+   "Icao": "RJFG",
    "DownloadCount": 1,
    "Wg": {},
    "NbDownloaded": 13,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Ominato",
+   "Icao": "RJSO",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 4,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Omura",
+   "Icao": "RJDU",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 12,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1458,59 +1492,8 @@
    "Com": null
   },
   {
-   "Title": "Iwoto",
-   "Icao": "RJAW",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 13,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Kitakyushu",
-   "Icao": "RJFR",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 16,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Matsushima",
-   "Icao": "RJST",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 6,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Futenma",
-   "Icao": "ROTM",
+   "Title": "Rebun",
+   "Icao": "RJCR",
    "DownloadCount": 1,
    "Wg": {},
    "NbDownloaded": 2,
@@ -1526,11 +1509,11 @@
    "Com": null
   },
   {
-   "Title": "Nyutabaru",
-   "Icao": "RJFN",
+   "Title": "Narita INTL",
+   "Icao": "RJAA",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 11,
+   "NbDownloaded": 47,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1543,11 +1526,11 @@
    "Com": null
   },
   {
-   "Title": "Chofu",
-   "Icao": "RJTF",
+   "Title": "Osaka/Yao",
+   "Icao": "RJOY",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 5,
+   "NbDownloaded": 9,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1560,28 +1543,11 @@
    "Com": null
   },
   {
-   "Title": "Metabaru",
-   "Icao": "RJDM",
+   "Title": "Sado",
+   "Icao": "RJSD",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 4,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Yaizu/Shizuhama",
-   "Icao": "RJNY",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 7,
+   "NbDownloaded": 2,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1611,11 +1577,28 @@
    "Com": null
   },
   {
-   "Title": "Kamigoto",
-   "Icao": "RJDK",
+   "Title": "Shonai",
+   "Icao": "RJSY",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 2,
+   "NbDownloaded": 16,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Tsushima",
+   "Icao": "RJDT",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 15,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1645,11 +1628,11 @@
    "Com": null
   },
   {
-   "Title": "Shimofusa",
-   "Icao": "RJTL",
+   "Title": "Tsuiki",
+   "Icao": "RJFZ",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 8,
+   "NbDownloaded": 9,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1662,11 +1645,11 @@
    "Com": null
   },
   {
-   "Title": "Hyakuri",
-   "Icao": "RJAH",
+   "Title": "Yamagata",
+   "Icao": "RJSC",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 31,
+   "NbDownloaded": 18,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1679,11 +1662,11 @@
    "Com": null
   },
   {
-   "Title": "Iwakuni",
-   "Icao": "RJOI",
+   "Title": "Sendai",
+   "Icao": "RJSS",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 8,
+   "NbDownloaded": 26,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1696,11 +1679,11 @@
    "Com": null
   },
   {
-   "Title": "Shonai",
-   "Icao": "RJSY",
+   "Title": "Oshima",
+   "Icao": "RJTO",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 16,
+   "NbDownloaded": 10,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1713,8 +1696,8 @@
    "Com": null
   },
   {
-   "Title": "Kanoya",
-   "Icao": "RJFY",
+   "Title": "Kobe",
+   "Icao": "RJBE",
    "DownloadCount": 1,
    "Wg": {},
    "NbDownloaded": 13,
@@ -1730,76 +1713,8 @@
    "Com": null
   },
   {
-   "Title": "Tajima",
-   "Icao": "RJBT",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 10,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Hakodate",
-   "Icao": "RJCH",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 23,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Takamatsu",
-   "Icao": "RJOT",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 19,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Tottori",
-   "Icao": "RJOR",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 10,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Tanegashima",
-   "Icao": "RJFG",
+   "Title": "Yakushima",
+   "Icao": "RJFC",
    "DownloadCount": 1,
    "Wg": {},
    "NbDownloaded": 13,
@@ -1832,11 +1747,11 @@
    "Com": null
   },
   {
-   "Title": "Iruma",
-   "Icao": "RJTJ",
+   "Title": "Fukushima",
+   "Icao": "RJSF",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 6,
+   "NbDownloaded": 17,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1849,11 +1764,11 @@
    "Com": null
   },
   {
-   "Title": "Iwami",
-   "Icao": "RJOW",
+   "Title": "Niigata",
+   "Icao": "RJSN",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 14,
+   "NbDownloaded": 22,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1866,11 +1781,11 @@
    "Com": null
   },
   {
-   "Title": "Tateyama",
-   "Icao": "RJTE",
+   "Title": "Obihiro",
+   "Icao": "RJCB",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 3,
+   "NbDownloaded": 15,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1883,11 +1798,11 @@
    "Com": null
   },
   {
-   "Title": "Toyama",
-   "Icao": "RJNT",
+   "Title": "Kitakyushu",
+   "Icao": "RJFR",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 18,
+   "NbDownloaded": 16,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1900,11 +1815,11 @@
    "Com": null
   },
   {
-   "Title": "Yakushima",
-   "Icao": "RJFC",
+   "Title": "Yaizu/Shizuhama",
+   "Icao": "RJNY",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 13,
+   "NbDownloaded": 7,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -1917,96 +1832,11 @@
    "Com": null
   },
   {
-   "Title": "Yokota",
-   "Icao": "RJTY",
+   "Title": "Niijima",
+   "Icao": "RJAN",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 13,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Chubu Centrair INTL",
-   "Icao": "RJGG",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 38,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Misawa",
-   "Icao": "RJSM",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 14,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Yonaguni Jima",
-   "Icao": "ROYN",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 10,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Minami Daito",
-   "Icao": "ROMD",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 10,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Sendai",
-   "Icao": "RJSS",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 26,
+   "NbDownloaded": 7,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
@@ -2036,74 +1866,6 @@
    "Com": null
   },
   {
-   "Title": "Memanbetsu",
-   "Icao": "RJCM",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 18,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Kadena",
-   "Icao": "RODN",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 15,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Tarama",
-   "Icao": "RORT",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 8,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
-   "Title": "Miho",
-   "Icao": "RJOH",
-   "DownloadCount": 1,
-   "Wg": {},
-   "NbDownloaded": 20,
-   "AdminData": {
-    "ArpCoord": "",
-    "Elevation": "",
-    "Mag_var": "",
-    "Mag_annualchange": "",
-    "Geoid_undulation": "",
-    "Traffic_types": ""
-   },
-   "Navaids": null,
-   "Com": null
-  },
-  {
    "Title": "Wakkanai",
    "Icao": "RJCW",
    "DownloadCount": 1,
@@ -2121,8 +1883,42 @@
    "Com": null
   },
   {
-   "Title": "Kagoshima",
-   "Icao": "RJFK",
+   "Title": "Noto",
+   "Icao": "RJNW",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 14,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Ojika",
+   "Icao": "RJDO",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 2,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Okayama",
+   "Icao": "RJOB",
    "DownloadCount": 1,
    "Wg": {},
    "NbDownloaded": 22,
@@ -2138,11 +1934,215 @@
    "Com": null
   },
   {
-   "Title": "Tokushima",
-   "Icao": "RJOS",
+   "Title": "Tottori",
+   "Icao": "RJOR",
    "DownloadCount": 1,
    "Wg": {},
-   "NbDownloaded": 20,
+   "NbDownloaded": 10,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Odate-Noshiro",
+   "Icao": "RJSR",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 13,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Oki",
+   "Icao": "RJNO",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 15,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Takamatsu",
+   "Icao": "RJOT",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 19,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Nyutabaru",
+   "Icao": "RJFN",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 11,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "New Ishigaki",
+   "Icao": "ROIG",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 22,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Minami Daito",
+   "Icao": "ROMD",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 10,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Tokachi",
+   "Icao": "RJCT",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 5,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Toyama",
+   "Icao": "RJNT",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 18,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Tokunoshima Is.",
+   "Icao": "RJKN",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 15,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Osaka INTL",
+   "Icao": "RJOO",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 26,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Hakodate",
+   "Icao": "RJCH",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 23,
+   "AdminData": {
+    "ArpCoord": "",
+    "Elevation": "",
+    "Mag_var": "",
+    "Mag_annualchange": "",
+    "Geoid_undulation": "",
+    "Traffic_types": ""
+   },
+   "Navaids": null,
+   "Com": null
+  },
+  {
+   "Title": "Sapporo/New Chitose",
+   "Icao": "RJCC",
+   "DownloadCount": 1,
+   "Wg": {},
+   "NbDownloaded": 42,
    "AdminData": {
     "ArpCoord": "",
     "Elevation": "",
